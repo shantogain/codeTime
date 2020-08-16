@@ -3,6 +3,9 @@ body{
     padding: 0;
     box-sizing: border-box;
 }
+.container{
+    
+}
 
 .intro{
     text-transform: uppercase;
@@ -13,7 +16,7 @@ body{
 
 
 .header-section{
-    background-image: url(/codeTime/elements/img/hero-bg.jpg);
+    background-image: url(/elements/img/hero-bg.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -30,4 +33,16 @@ h2{
 .para{
     color: white;
     font-size: 16px;
+}
+.button a{
+    text-decoration: none;
+    
+}
+.primary-button{
+    background: #e32879;
+    font-size: 16px;
+    color: white;
+    display: inline-block;
+    font-weight: 700;
+    padding: 12px 30px 10px;
 }
