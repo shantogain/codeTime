@@ -4,7 +4,30 @@ body{
     box-sizing: border-box;
 }
 
-span{
+.intro{
     text-transform: uppercase;
     color: #e32879;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+
+.header-section{
+    background-image: url(/codeTime/elements/img/hero-bg.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 800px;
+
+}
+h2{
+    color: white;
+    font-size: 60px;
+    font-weight: 700;
+    margin-top: 25px;
+    margin-bottom: 10px;
+}
+.para{
+    color: white;
+    font-size: 16px;
 }
