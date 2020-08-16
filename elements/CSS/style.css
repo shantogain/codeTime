@@ -52,3 +52,13 @@ h2{
     font-weight: 700;
     padding: 12px 30px 10px;
 }
+/* section about */
+.about-section{
+  padding: 80px 50px 80px 30px;
+
+}
+
+.about-section__inner-container{
+    margin: 10px 50px 20px;
+}
+
