@@ -3,9 +3,6 @@ body{
     padding: 0;
     box-sizing: border-box;
 }
-.container{
-    
-}
 
 .intro{
     text-transform: uppercase;
@@ -21,7 +18,15 @@ body{
     background-position: center;
     background-size: cover;
     height: 800px;
+}
+.header-section__inner-container{
+    position: relative;
+    height: 800px;
+    top: 20%;
+}
 
+.row{
+    padding-left: 30px;
 }
 h2{
     color: white;
@@ -34,8 +39,9 @@ h2{
     color: white;
     font-size: 16px;
 }
-.button a{
+.button a:hover{
     text-decoration: none;
+    color: white;
     
 }
 .primary-button{
