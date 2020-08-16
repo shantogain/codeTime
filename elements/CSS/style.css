@@ -2,6 +2,7 @@ body{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    background-color: #191919;
 }
 
 .intro{
@@ -11,7 +12,7 @@ body{
     font-weight: 700;
 }
 
-
+/* ! header section */
 .header-section{
     background-image: url(/elements/img/hero-bg.jpg);
     background-repeat: no-repeat;
@@ -38,6 +39,7 @@ h2{
 .para{
     color: white;
     font-size: 16px;
+    
 }
 .button a:hover{
     text-decoration: none;
@@ -52,13 +54,27 @@ h2{
     font-weight: 700;
     padding: 12px 30px 10px;
 }
-/* section about */
+
+/* !section about */
 .about-section{
   padding: 80px 50px 80px 30px;
+  background-color: #191919;
 
 }
 
 .about-section__inner-container{
     margin: 10px 50px 20px;
+    padding-left: 20px;
 }
+
+/* ! services section */
+
+.main-title{
+    color: white;
+    font-size: 40px;
+    font-weight: 600;
+    margin-top: 0;
+   
+}
+
 
