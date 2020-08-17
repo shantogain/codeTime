@@ -14,7 +14,7 @@ body{
 
 /* ! header section */
 .header-section{
-    background-image: url(/elements/img/hero-bg.jpg);
+    background-image: url(/codeTime/elements/img/hero-bg.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
