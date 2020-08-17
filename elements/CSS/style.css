@@ -80,10 +80,7 @@ h2{
     font-size: 50px;
     font-weight: 700;
     margin-top: 0; 
-
-}
-.row{
-    margin-top: 50px;
+    
 }
 
 .services-section__item-container{
@@ -92,7 +89,18 @@ h2{
     padding: 46px 50px 0;
     height: 325px;
     margin-bottom: 30px;
-
+    
+}
+.services-section__item-container:hover{
+    border-bottom: 3px solid #e32879 ;
 }
 
 
+.services-section__title-container{
+    padding-bottom: 14px;
+    padding-top: 14px;
+}
+
+
+
+/* !services section */
