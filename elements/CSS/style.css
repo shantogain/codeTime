@@ -4,15 +4,6 @@ body{
     box-sizing: border-box;
     background-color: #191919;
 }
-
-.container{
-    padding-right: 15px;
-    padding-left: 15px;
-    margin-right: auto;
-    margin-left: auto;
-    width: 100%;
-}
-
 .intro{
     text-transform: uppercase;
     color: #e32879;
@@ -28,6 +19,14 @@ body{
     background-size: cover;
     height: 800px;
 }
+.header-section .container{
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 100%;
+}
+
 .header-section__inner-container{
     position: relative;
     height: 800px;
@@ -101,6 +100,15 @@ h2{
     padding-top: 14px;
 }
 
-
-
 /* !services section */
+
+/*!---------Portfolio Section---------*/
+
+
+
+
+  
+
+
+
+
